@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="34" viewBox="0 0 36 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #ff3900;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="長方形_599" data-name="長方形 599" class="cls-1" d="M9,1H35V23H9V1Z"/>
+  <path id="長方形_599-2" data-name="長方形 599" class="cls-1" d="M1,11H27V33H1V11Z"/>
+</svg>

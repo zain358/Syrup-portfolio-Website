@@ -1,0 +1,785 @@
+[
+  {
+    "num": "01",
+    "title": "One Day",
+    "credits": "Lyrics: KYOtaro, Music: イケガミキヨシ, Sound Produced by イケガミキヨシ / A.G.O",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/sirup-ep2/1409480058",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3ybGFUm",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgaoKPjnYmNBYMYMhVa8SujBK57fAg4eA",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://ssm.lnk.to/EP2",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "02",
+    "title": "Synapse",
+    "credits": "Lyrics: KYOtaro, Music: OBKR / Yaffle, Sound Produced by Tokyo Recordings",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/synapse-single/1281420374",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/0q46n7PEUFmSK4nrbUt35L",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/cdaa441cfdb4f99a1f91",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=g18T1amUeUQ",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/8sddJ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "03",
+    "title": "PRAYER",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / A.G.O, Sound Produced by A.G.O",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/feel-good/1459412495",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3sj2QUL",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnXoGdL4f3If6KawCzou6S5ggfuDQk6ss",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirup_feelgood",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "04",
+    "title": "Why Can't",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Mori Zentaro / Shin Sakiura, Sound Produced by Mori Zentaro & Shin Sakiura",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/ciy/1500387747",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/4khOExEFE8CB3d57rc9xWQ",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MPH9na",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_msr-HWg0_Xr9XAHmvRLUhxKNgdoTkOHTw",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/Zhlat_ciy_alltracks",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "05",
+    "title": "Pool",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Mori Zentaro, Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/feel-good/1459412495",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3sj2QUL",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnXoGdL4f3If6KawCzou6S5ggfuDQk6ss",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirup_feelgood",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "06",
+    "title": "MAIGO",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Joe Hertz, Sound Produced by Joe Hertz",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/ciy/1500387747",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/4khOExEFE8CB3d57rc9xWQ",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MPH9na",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_msr-HWg0_Xr9XAHmvRLUhxKNgdoTkOHTw",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/Zhlat_ciy_alltracks",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "07",
+    "title": "Need You Bad",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / STUTS, Sound Produced by STUTS & Atsushi Inoue [showmore]",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/ciy/1500387747",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/4khOExEFE8CB3d57rc9xWQ",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MPH9na",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_msr-HWg0_Xr9XAHmvRLUhxKNgdoTkOHTw",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/Zhlat_ciy_alltracks",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "08",
+    "title": "バンドエイド",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Zentaro Mori [soulflex], Sound Produced by Zentaro Mori [Soulflex]",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/1297823476",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/40Wn3WfqpTFsQHYHYuJdSx",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MReoXc",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpi-aDUZO7E0yxwV00J7f-J0cI386MzBE",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/8sddJ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "09",
+    "title": "CRAZY",
+    "credits": "Lyrics: KYOtaro / ZIN, Music: KYOtaro / Shin Sakiura, Sound Produced by Shin Sakiura",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/feel-good/1459412495",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3sj2QUL",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnXoGdL4f3If6KawCzou6S5ggfuDQk6ss",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirup_feelgood",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "10",
+    "title": "Rain",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Tomokazu Matsuzawa, Sound Produced by The Sknow / Chocoholic",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/sirup-ep2/1409480058",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3ybGFUm",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgaoKPjnYmNBYMYMhVa8SujBK57fAg4eA",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://ssm.lnk.to/EP2",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "11",
+    "title": "Last Dance",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Shin Sakiura, Sound Produced by Shin Sakiura",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/sirup-ep2/1409480058",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3ybGFUm",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgaoKPjnYmNBYMYMhVa8SujBK57fAg4eA",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://ssm.lnk.to/EP2",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "12",
+    "title": "Overnight",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / ROMderful, Sound Produced by ROMderful",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/cure/1553832332",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/0rczckrcajbB2EOgcMBADk",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/31afcc2cce20678caa11",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmgwcYXn71xC-oco-YM9iD3CZnemLYlGY",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirupcure_al",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "13",
+    "title": "Evergreen",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Mori Zentaro, Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/feel-good/1459412495",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3sj2QUL",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnXoGdL4f3If6KawCzou6S5ggfuDQk6ss",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirup_feelgood",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "14",
+    "title": "No Stress",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Mori Zentaro [Soulflex], Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/sirup-ep2/1409480058",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3ybGFUm",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgaoKPjnYmNBYMYMhVa8SujBK57fAg4eA",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://ssm.lnk.to/EP2",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "15",
+    "title": "LOOP",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro, Shingo.S, Sound Produced by Shingo.S",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/1378512636",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/73DQWJpE3jdhd2tDIFAPFQ",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3w6TGMn",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nW7JRCLfkY3ggcxdYDBMaTx61NTyaWuTo",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/DYnFi",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "16",
+    "title": "一瞬",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Kent.Aro, Sound Produced by Kent.Aro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/1297823476",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/40Wn3WfqpTFsQHYHYuJdSx",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MReoXc",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpi-aDUZO7E0yxwV00J7f-J0cI386MzBE",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/8sddJ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "17",
+    "title": "Ready For You",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Shin Sakiura, Sound Produced by Shin Sakiura",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/ciy/1500387747",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/4khOExEFE8CB3d57rc9xWQ",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MPH9na",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_msr-HWg0_Xr9XAHmvRLUhxKNgdoTkOHTw",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/Zhlat_ciy_alltracks",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "18",
+    "title": "Last Lover",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Shingo.S, Sound Produced by Shingo S",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/1297823476",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/40Wn3WfqpTFsQHYHYuJdSx",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MReoXc",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpi-aDUZO7E0yxwV00J7f-J0cI386MzBE",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/8sddJ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "19",
+    "title": "Trigger",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Slom, Sound Produced by Slom",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/cure/1553832332",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/0rczckrcajbB2EOgcMBADk",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/31afcc2cce20678caa11",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmgwcYXn71xC-oco-YM9iD3CZnemLYlGY",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirupcure_al",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "20",
+    "title": "HOPELESS ROMANTIC",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / starRo, Sound Produced by starRo & Shin Sakiura, Guitar: Shin Sakiura",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/hopeless-romantic/1512970960",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/6PA1ohZHQcIMJj5NUGDJBG",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3loNgDd",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNi7sekvyH_trOmHRqJL2QbIC5F3w5pN0",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/50rh8shAID",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "21",
+    "title": "Runaway",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / starRo / SARA-J, Sound Produced by starRo",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/cure/1553832332",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/0rczckrcajbB2EOgcMBADk",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/31afcc2cce20678caa11",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmgwcYXn71xC-oco-YM9iD3CZnemLYlGY",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/sirupcure_al",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "22",
+    "title": "Change",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / A.G.O, Sound Produced by A.G.O",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/change/1585749352",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/6FxkLVrMoNe4qAOALF1NJg",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/1f343577db1492911390",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=UddPDPJ2RWo",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/Change",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "23",
+    "title": "Thinkin about us",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Yaffle, Sound Produced by Yaffle",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/thinkin-about-us/1543354547",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/698xYh4RXoiFhPLWgJ6Wwa",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3cLqaDj",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzlzL3qUNsBOAZAUI_cRoKLlt8JQemPUA",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/gMevsPfZ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "24",
+    "title": "Your Love",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Mori Zentaro, Horn Arrangement : Atsushi Inoue [showmore], Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/ciy/1500387747",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/4khOExEFE8CB3d57rc9xWQ",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MPH9na",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_msr-HWg0_Xr9XAHmvRLUhxKNgdoTkOHTw",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://asab.lnk.to/Zhlat_ciy_alltracks",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "25",
+    "title": "Superpower",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / A.G.O, Sound Produced by A.G.O",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/superpower/1609904738",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/0ARB46NXMft2bVDQkOsgKp",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/bd70bb6f8ba691823e31",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=2_uKgfo3hlM",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://orcd.co/superpower",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "26",
+    "title": "SWIM",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Mori Zentaro, Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/1297823476",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/40Wn3WfqpTFsQHYHYuJdSx",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MReoXc",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpi-aDUZO7E0yxwV00J7f-J0cI386MzBE",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/8sddJ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "27",
+    "title": "Do Well",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Mori Zentaro [Soulflex], Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/do-well-single/1404663666",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/2K9DgcHqkcYrlofTFdCbjN",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MQuPDd",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_n048Cvwej5lLhp_xeqnkLcd74OgY23MX0",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://ssm.lnk.to/dowell",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "28",
+    "title": "LMN",
+    "credits": "Lyrics: KYOtaro, Music: KYOtaro / Chocoholic, Sound Produced by Chocoholic",
+    "links": [
+      {
+        "url": "https://music.apple.com/jp/album/1297823476",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/40Wn3WfqpTFsQHYHYuJdSx",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://mf.awa.fm/3MReoXc",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpi-aDUZO7E0yxwV00J7f-J0cI386MzBE",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://lnk.to/8sddJ",
+        "alt": "ALL"
+      }
+    ]
+  },
+  {
+    "num": "29",
+    "title": "BE THE GROOVE",
+    "credits": "Lyrics: SIRUP, Music: SIRUP / Mori Zentaro, Sound Produced by Mori Zentaro",
+    "links": [
+      {
+        "url": "https://music.apple.com/album/id/1646401930",
+        "alt": "Apple Music"
+      },
+      {
+        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb",
+        "alt": "Spotify"
+      },
+      {
+        "url": "https://s.awa.fm/album/5fe39cf31934f3bc7361",
+        "alt": "AWA"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqnkxyK-Ip-b5kzlLQeO874ct5VLpFytw&feature=share",
+        "alt": "YouTube"
+      },
+      {
+        "url": "https://orcd.co/bethegroove",
+        "alt": "ALL"
+      }
+    ]
+  }
+]
